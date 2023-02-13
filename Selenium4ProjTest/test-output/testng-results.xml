@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-05T20:42:54 PDT" name="Default suite" finished-at="2022-09-05T20:45:04 PDT" duration-ms="129920">
+    <groups>
+    </groups>
+    <test started-at="2022-09-05T20:42:54 PDT" name="Default test" finished-at="2022-09-05T20:45:04 PDT" duration-ms="129920">
+      <class name="com.sugi.seleniumpagination.BrokenLink">
+        <test-method signature="test()[pri:0, instance:com.sugi.seleniumpagination.BrokenLink@3fb1549b]" started-at="2022-09-05T20:42:54 PDT" name="test" finished-at="2022-09-05T20:45:04 PDT" duration-ms="129862" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.sugi.seleniumpagination.BrokenLink -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
